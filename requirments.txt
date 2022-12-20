@@ -1,0 +1,6 @@
+tensorflow == 2.8.0
+tensorflow-gpu == 2.8.0
+matplotlib == 3.4.3
+opencv-python == 4.5.5.62
+numpy == 1.21.4
+micropython-imghdr = 0.0.0
